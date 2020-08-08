@@ -1,6 +1,6 @@
 # GhostShip
 
-GhostShip provides you an ephemeral desktop environment which has a single web-browser only.  
+GhostShip is a toolkit to build and deploy an ephemeral desktop environment which has a single web-browser only.  
 It enables you to browse something securely.
 
 ![Screenshot](https://github.com/qb0C80aE/ghostship/raw/master/image.png)
